@@ -1,0 +1,5 @@
+Json server creation
+.....................
+
+node server          -   npm init 
+install Json server  -   npm i json server
